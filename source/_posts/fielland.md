@@ -9,5 +9,5 @@ Fielland 整体为一群岛，位于约 40°N~65°N，相当于地球上欧洲�
 Fielland 为科技高度发达的国家，尤以信息技术、化学、制药为突出点，社会保障体系亦极度发达，高于北欧的水平。对于少数群体（如 LGBTQ+、神经多样性人士）非常包容并提供实质有用的支持。同时 Fielland 的文化本身就较为技术崇拜，因此科技从业人员比例极高。
 Fielland 的本土宗教为一种名为“枝教”（Branchism）的多神教，该宗教认为世间万物由一棵“世界树”不断分枝生长而来，世界的基本结构是树状的。同时枝教亦信仰万物有灵，建有海量神社祭拜万物，认为这种祭拜是让人与世界建立联系的一种手段。
 
-Fielland 国旗：{% asset_img fielland2.jpg %}
-Fielland 地图：{% asset_img Figure_4.jpg %}
+Fielland 国旗：![flag](fielland/fielland2.png)
+Fielland 地图：![map](fielland/Figure_4.png)
