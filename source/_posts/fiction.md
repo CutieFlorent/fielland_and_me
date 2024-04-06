@@ -1,5 +1,5 @@
 ---
-title: fiction
+title: 关于小说（或游戏）的随想
 date: 2024-04-06 22:48:35
 tags: fiction ideas
 ---
