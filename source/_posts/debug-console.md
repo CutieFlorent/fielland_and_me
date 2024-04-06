@@ -13,3 +13,5 @@ A test console for me to practice, my [Github](https://github.com/CutieFlorent).
 ```bash
 Fielland ~
 ```
+
+$ 为什么 Hexo 连公式 q_1^2 m^2 都不支持啊$
