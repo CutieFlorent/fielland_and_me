@@ -1,7 +1,7 @@
 ---
-title: od_record
+title: od(药物过量)记录
 date: 2024-05-13 15:31:28
-tags:
+tags: overdose
 password: internet'yamero
 ---
 
