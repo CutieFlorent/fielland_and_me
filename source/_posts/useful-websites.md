@@ -12,3 +12,4 @@ https://temp-mail.org/en/
 #### For coding
 
 https://juejin.cn/
+https://carlosholivan.github.io/DeepLearningMusicGeneration/
