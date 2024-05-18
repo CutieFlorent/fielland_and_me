@@ -10,4 +10,4 @@ tags: by-talk
 ![](radical/01.png)
 
 0.2 pass成丑女不如不pass
-![](radical/02.png)
+![](radical/Screenshot_20240518_144400.jpg)
