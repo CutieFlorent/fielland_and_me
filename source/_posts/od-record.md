@@ -2,7 +2,7 @@
 title: od(药物过量)记录
 date: 2024-05-13 15:31:28
 tags: overdose
-password: internet'yamero
+password: overdose'yamero
 ---
 
 ## 01 2024/05/13
