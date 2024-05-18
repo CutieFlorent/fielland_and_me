@@ -2,7 +2,7 @@
 title: sentimental
 date: 2024-03-30 20:20:36
 tags:
-password: internet saiko-
+password: internet'yamero
 ---
 
 ## 01
@@ -24,7 +24,7 @@ password: internet saiko-
 
 肌电诱发电位报告
 
-```
+```python
 结论
 
 大脑高级功能事件相关电位检查:
