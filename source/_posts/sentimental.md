@@ -24,7 +24,7 @@ password: internetyamero
 
 肌电诱发电位报告
 
-```python
+```
 结论
 
 大脑高级功能事件相关电位检查:
