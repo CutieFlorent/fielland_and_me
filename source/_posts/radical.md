@@ -12,5 +12,5 @@ tags: by-talk
 0.2 pass 成丑女不如不 pass
 ![](radical/02.jpg)
 
-0.3 小男娘别去 hrt
+0.30000000000000004 小男娘别去 hrt
 ![](radical/03.jpg)
