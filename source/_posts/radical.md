@@ -16,5 +16,5 @@ tags: by-talk
 ![](radical/03.jpg)
 
 0.4 M F 二象性
-![](radical/04-01.jpg)
-![](radical/04-02.jpg)
+![](radical/IMG_0343.jpeg)
+![](radical/IMG_0349.jpeg)
