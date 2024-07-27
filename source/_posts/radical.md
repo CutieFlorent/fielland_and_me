@@ -14,3 +14,7 @@ tags: by-talk
 
 0.30000000000000004 小男娘别去 hrt
 ![](radical/03.jpg)
+
+0.4 M F 二象性
+![](radical/IMG_0343.jpeg)
+![](radical/IMG_0349.jpeg)
