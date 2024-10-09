@@ -6,7 +6,6 @@ tags: Fielland Florent
 
 ## 菲尔兰奇葩国王录-国王 Florent(Crafty 王国)
 
-![Florent国王画像](fielland-kings-florent/florent_pic.png)
 ![Crafty王朝地图](fielland-kings-florent/Crafty.png) 0. Crafty 为 Fielland 历史上的一个王国，位于 Fielland 西海岸，在相当长的一段时间内为 Fielland 列岛里最强大的国家。
 
 1. Florent 于 1324 年 7 月出生于花原琉璃宫（Crafty 宫廷）；Florent 于 1345 年 9 月登基，时年 21 岁，因已成年所以直接亲政；Florent 于 1348 年 8 月因失败的 srs 手术去世，时年 24 岁，一共统治 Crafty 2 年 11 个月。
